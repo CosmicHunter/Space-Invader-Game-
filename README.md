@@ -11,3 +11,7 @@
 ## ScreenShots
 
 ![](img1.png)
+
+### How the game runs
+
+![](gif.gif)
