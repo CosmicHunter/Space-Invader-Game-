@@ -7,3 +7,7 @@
   * We can move the rocket left and right 
   * Shoot the bullets with [Space]
   * The enemies come from above . The more the number of enemies shot the more the score 
+
+## ScreenShots
+
+![](img1.png)
