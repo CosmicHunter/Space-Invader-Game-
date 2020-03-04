@@ -12,6 +12,11 @@
 
 ![](img1.png)
 
-### How the game runs
+## How the game runs
 
 ![](gif.gif)
+
+## Tech Stack
+
+* Pygame
+* Python
