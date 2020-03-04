@@ -10,7 +10,7 @@
 
 ## ScreenShots
 
-![](img1.png=100x100)
+![](img1.png=400x400)
 
 ## How the game runs
 
