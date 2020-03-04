@@ -10,7 +10,7 @@
 
 ## ScreenShots
 
-![](img1.png){: width=150 height=100}
+![](img1.png)
 
 ## How the game runs
 
